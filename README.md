@@ -1,5 +1,9 @@
 # news-app2
 
+"Django for beginners" by William S. Vincent
+
+This Portfolio references the above book.
+
 pages: 
 
 base.html https://keita-sa.github.io/news-app2/templates/base.html
