@@ -2,7 +2,7 @@
 
 "Django for beginners" by William S. Vincent
 
-This Portfolio references the above book.
+This Portfolio references Chapter 13: Newspaper App in the above book.
 
 pages: 
 
